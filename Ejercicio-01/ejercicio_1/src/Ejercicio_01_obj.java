@@ -1,3 +1,4 @@
+//Realizado por Lina Sofia Centeno G72
 import java.util.Scanner;
 
 public class Ejercicio_01_obj {
@@ -31,6 +32,8 @@ public class Ejercicio_01_obj {
     }
     
 }
+
+
 
 class estudiante{
     private String nombre;

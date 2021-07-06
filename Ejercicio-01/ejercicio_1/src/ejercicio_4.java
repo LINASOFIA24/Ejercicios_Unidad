@@ -1,3 +1,4 @@
+//Realizado por Lina Sofia Centeno G72
 import java.util.Scanner;
 
 public class ejercicio_4 {
